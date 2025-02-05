@@ -36,3 +36,14 @@ npm start
 ``` 
 nano successful_registrations.txt
 ```
+
+## دونیت
+
+اگر خیلی مشتی هستی و میخوای از مرامت هزینه کنی ، فدات بشم حاجی از ادرس های زیر میتونی:
+
+- **Solana**: `CcQ3R38NSSF9BhF8EbctGHqKDjqp8xSqUCJZMdrAr837`
+- **EVM**: `0xB3C5b4d238937327C01AeC8908619cEa604D19eA`
+
+##کانال ما
+🔸@crypttopiaa 🪂 
+🔸@radikal1_2006🪂
