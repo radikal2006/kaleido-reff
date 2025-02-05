@@ -34,6 +34,11 @@ npm start
 
 
 بعد کد رفرالتون رو وارد کنید (لینک نه کد ، کد اخر لینک شماست)
+مثال 
+لینک رفرال من : https://kaleidofinance.xyz/testnet?ref=YX1V2WLS
+کد رفرال من : YX1V2WLS
+
+
 اکانت هایی که برای شما میسازه اینجا ذخیره میشه
 ``` 
 nano successful_registrations.txt
